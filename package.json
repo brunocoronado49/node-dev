@@ -1,0 +1,21 @@
+{
+  "name": "section-3",
+  "version": "0.0.1",
+  "description": "This is my first real app of node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "bases"
+  ],
+  "author": "bruce",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
